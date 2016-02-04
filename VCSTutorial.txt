@@ -1,2 +1,2 @@
 Version control tutorial for beginners! VCS - Tutorial.
-Added information here!
+Added information here! Edited by account B - Line 2
