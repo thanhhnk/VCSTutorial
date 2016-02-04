@@ -1,2 +1,2 @@
 Version control tutorial for beginners! VCS - Tutorial.
-Added information here!
+Added information here! Thay đổi được thực hiện ở dòng 2 bởi tài khoản A
