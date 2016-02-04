@@ -1,3 +1,2 @@
 Version control tutorial for beginners! VCS - Tutorial.
-Added information here!Edited by account B on line 2
-GitShell works more efficient than GitHub desktop.
+Added information here! Edited by Account A on line 2
